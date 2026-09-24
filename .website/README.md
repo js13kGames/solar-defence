@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - strategy
 directors_cut: https://lc-apps.co.uk/app/game/js13k-space
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
